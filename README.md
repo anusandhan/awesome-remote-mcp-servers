@@ -368,6 +368,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Figma](https://figma.com) `https://mcp.figma.com/mcp`
   [![Figma MCP connector](https://glama.ai/mcp/connectors/com.figma.mcp/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.figma.mcp/mcp)
   🔐 - Read Figma files and turn frames and components into code.
+- [Gradients Studio](https://www.gradients.studio/mcp) `https://www.gradients.studio/mcp`
+  [![Gradients Studio MCP connector](https://glama.ai/mcp/connectors/studio.gradients/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/studio.gradients/mcp)
+  🔓 - Renders gradient backgrounds with real grain, pixel and dither finishes; free previews, a key only for sized exports.
 - [ImgVX AI](https://imgvx.com/mcp-server/) `https://imgvx.com/mcp`
   [![ImgVX AI MCP connector](https://glama.ai/mcp/connectors/com.imgvx/imgvx-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.imgvx/imgvx-ai)
   🔓 - Find the right free in-browser image tool for a job (background removal, upscaling, compression) in 40 languages.
